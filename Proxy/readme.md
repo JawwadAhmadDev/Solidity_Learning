@@ -8,3 +8,6 @@ https://blog.openzeppelin.com/deep-dive-into-the-minimal-proxy-contract/#how-to-
 # Proxy Upgrade Patterns [Open_Zepellin]
 https://docs.openzeppelin.com/upgrades-plugins/1.x/proxies
 
+# Clone Factory [github]
+https://github.com/optionality/clone-factory
+
