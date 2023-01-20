@@ -41,4 +41,8 @@ Say you have a website that generates new wallets for new users and these new us
 # Another Explanation of Clone Factory from other resources:
 1. soliditydevelopers.com: https://soliditydeveloper.com/clonefactory
 2. Github Repository: https://github.com/optionality/clone-factory
+3. [must_read] https://blockchain-academy.hs-mittweida.de/courses/solidity-coding-beginners-to-intermediate/lessons/solidity-11-coding-patterns/topic/factory-clone/
+4. https://blog.logrocket.com/cloning-solidity-smart-contracts-factory-pattern/
+
+
  
